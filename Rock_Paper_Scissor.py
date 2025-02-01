@@ -23,3 +23,6 @@ while(True):
  elif(guess==guesses[4]):
   print(f"Your Score :-{you}")
   print(f"Computer's Score:-{comp}")
+
+
+print("Fuck Off!")
